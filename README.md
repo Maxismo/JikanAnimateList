@@ -1,0 +1,2 @@
+# JikanAnimateList
+Jikan Animate List
